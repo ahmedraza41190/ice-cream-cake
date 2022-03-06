@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+}
+
+header {
+    background-color: brown ;
+    height: auto;
+    width: 100vw;
+    margin: 0;
+}
+
+.h-logo {
+    color: yellow;
+    height: 100px ; 
+    width: 100px;
+    margin-left: 45%;
+    margin-right: 55%;
+}
+
+.h-p {
+    color: yellow;
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    text-shadow: 3px 3px 3px #ababab;
+}
+
+.main {
+    display: inline-block;
+}
+
+.c-1 {
+    display: inline-block;
+    border: 10px double chocolate;
+    margin: 5px;
+    width: 400px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.i-1 {
+      height: 300px ;
+      width: 400px ;  
+}
+
+.h-1 {
+    text-align: center;
+}
